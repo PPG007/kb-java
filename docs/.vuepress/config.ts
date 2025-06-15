@@ -19,7 +19,7 @@ export default defineUserConfig({
   theme: hopeTheme({
     navbar,
     sidebar,
-    hostname: 'https://ppg007.github.io/kb-java',
+    hostname: 'https://ppg007.github.io',
     docsDir: 'docs',
     docsRepo: 'https://github.com/PPG007/PPG007.github.io/kb-java',
     docsBranch: 'main',
